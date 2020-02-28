@@ -4,18 +4,18 @@ this is Japanese Version docs, I'm preparing [English Version docs](/manual-en.m
 
 このドキュメントは [Meetup video shooting Meetup](https://connpass.com/event/163347/) との連動企画です。Meetupのライブ配信/動画アーカイブに関するノウハウをもちより、より快適に視聴してもらえる環境をつくるためのマニュアルを成果物として公開しています。
 
-1. 会場側と調整することリスト
-2. スピーカーと調整することリスト
-3. YouTube LiveやZoomなどの使い方
-4. 配信機材とネットワークの構成図
+1. 会場やスピーカーと調整することリスト
+2. YouTube LiveやZoomなどの使い方
+3. 配信機材とネットワークの構成図
 
-## ## 会場やスピーカーと調整することリスト（執筆中）
+## ## 会場やスピーカーと調整することリスト
 
 - 音声の出力ライン
   - 音声出力形式
     - RCAケーブル（ピンケーブル、赤白の）
     - ミニケーブル（いわゆる3.5mmイヤホンジャック）
     - フォーンケーブル
+    - USB
   - マイクの本数と種類
     - 有線
     - 無線（ワイヤレスハンド、ピン）
@@ -24,10 +24,9 @@ this is Japanese Version docs, I'm preparing [English Version docs](/manual-en.m
 - ネットワーク環境
   - 有線 or 無線（Wi-Fi）
     - 配信用PCにLANケーブルのポートがあるか
-    - Wi-Fiについては配信用PCの安定した回線確保のため来場者の使用をお断りするか元回線を分ける
 
-※音声入力のケーブルと混同しないように注意してください（入力用のケーブルはPC上で再生するデモや動画の音声を会場に流すためのものです）<br>
-※ミキサー等が格納されたPAラックが施錠されているケースも多いのでファシリティ要確認
+※演台にある音声入力のケーブルと混同しないように注意してください（入力用のケーブルはPC上で再生するデモや動画の音声を会場に流すためのものです）。多くの場合はミキサー等が格納されたPAラックが用意されています。ラックは施錠されているケースも多いので要注意！ 音声出力を配信用PCもしくはミキサーに取り込むには上記のケーブルとの変換コネクタが必要になります。
+※Wi-Fiについては配信用PCの安定した回線確保のため来場者の使用をお断りするか元回線を分ける
 
 
 ## ## YouTube LiveやZoomなどの使い方（執筆中）
@@ -97,8 +96,8 @@ YouTubeでライブ配信をするにはチャンネルを作成してから設�
 参考; リモート/オンラインで勉強会をやる際によさそうなテクニック<br>
 [https://devrel.jp/勉強会/イベント/2020/02/20/online-meetup.html](https://devrel.jp/%E5%8B%89%E5%BC%B7%E4%BC%9A/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/2020/02/20/online-meetup.html)
 
-参考; スクリーンのキャプチャ+ワイプで勉強会をライブ配信する機材について（26ページ）<br>
-[https://speakerdeck.com/mixi_engineers/live-system?slide=26](https://speakerdeck.com/mixi_engineers/live-system?slide=26)
+参考; ミクシィグループの勉強会生放送事情を紹介します！ その２<br>
+[https://medium.com/mixi-developers/live-system-2-967c56396b69](https://medium.com/mixi-developers/live-system-2-967c56396b69)
 
 
 ## ## Appendix
