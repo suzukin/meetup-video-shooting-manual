@@ -1,3 +1,5 @@
+## 常設機材
+
 [Azure Daikanyama Base](https://www.facebook.com/pages/category/Information-Technology-Company/Azure-Daikanyama-Base-105036840973663/)に常設されている配信用機材です。
 
 - 配信用ゲーミングPC（[HP Pavilion Gaming 15](https://jp.ext.hp.com/gaming/personal/pavilion_gaming_15_dk0000/kakaku.html), Core i7 & 256GB SSD+1TB HDD & メモリ16GB & GTX1660Ti & 4Kパネル）
